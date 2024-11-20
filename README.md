@@ -31,4 +31,4 @@ How scripts are saved:
 
 
 Credits:
-https://github.com/Neztore/rbx-export
+Python port inspired from https://github.com/Neztore/rbx-export

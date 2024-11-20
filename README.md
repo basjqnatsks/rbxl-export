@@ -6,6 +6,9 @@ Please use the PYPI Version
 Prerequisites
 First, install Python if you haven't already.
 To install the package, run the following command to get it from PYPI:
+## Installation
+Install the package using pip:
+
  ```bash
 pip install rbxlx-export
 ```
@@ -19,7 +22,5 @@ pip install rbxlx-export
 
 A Python package to extract scripts from Roblox XML files.
 
-## Installation
 
-Install the package using pip:
 

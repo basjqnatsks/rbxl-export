@@ -1,4 +1,4 @@
-# rbx-export
+# rbxl-export
 
 A Python package to extract scripts from Roblox XML files.
 
@@ -8,3 +8,4 @@ Install the package using pip:
 
 ```bash
 pip install rbxlx-export
+```

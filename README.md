@@ -15,8 +15,20 @@ pip install rbxlx-export
 
 
 
-
+### Example usage
  ```py
 import rbxlx_export
 rbxlx_export.run('go.rbxlx', output='ExtractedScripts',lua=True, json=False)
 ```
+
+
+
+
+How scripts are saved:
+- Script - `scriptName.server.lua`
+- ModuleScript - `scriptName.lua`
+- LocalScript - `scriptName.client.lua`
+
+
+Credits:
+https://github.com/Neztore/rbx-export

@@ -14,13 +14,9 @@ pip install rbxlx-export
 ```
 
 
- 
 
 
-
-
-
-A Python package to extract scripts from Roblox XML files.
-
-
-
+ ```py
+import rbxlx_export
+rbxlx_export.run('go.rbxlx', output='ExtractedScripts',lua=True, json=False)
+```
